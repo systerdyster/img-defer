@@ -5,7 +5,7 @@ module.exports = {
 
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'img-defer.js',
+        filename: 'img-defer.min.js',
         library: 'imgDefer',
         libraryTarget: 'var'
     },
