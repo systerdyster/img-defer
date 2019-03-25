@@ -1,0 +1,26 @@
+{
+  "name": "img-defer",
+  "version": "1.0.0",
+  "description": "Easy simple way to \"defer\" images",
+  "main": "dist/img-defer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systerdyster/img-defer.git"
+  },
+  "author": "systerdyster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/systerdyster/img-defer/issues"
+  },
+  "homepage": "https://github.com/systerdyster/img-defer#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.4000",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
